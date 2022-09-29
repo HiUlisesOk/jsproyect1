@@ -1,0 +1,1 @@
+var lista = ["Ulises", 27, true, , {name:"El poder del ahora" , autor: "Eckhart Tolle", fecha: "", url: "https://books.google.com.ar/books/about/El_poder_del_ahora.html?id=A6eWlUQfyuoC&printsec=frontcover&source=kp_read_button&hl=es-419&redir_esc=y#v=onepage&q&f=false"}]
