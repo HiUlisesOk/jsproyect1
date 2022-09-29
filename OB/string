@@ -1,0 +1,13 @@
+var nombre = "Ulises";
+var apellido = "Esquivel";
+var estudiante = nombre + " " + apellido;
+var estudianteMayus = estudiante.toUpperCase();
+var estudianteMinus = estudiante.toLowerCase();
+var numLetras = estudiante.length;
+var primerLetra = estudiante[0];
+var ultimaLetra = apellido.slice(-1);
+var trimEstudiante = estudiante.replace(" ","");
+var boleanEstudiante = estudiante.includes(nombre);
+
+
+
