@@ -1,1 +1,3 @@
-var lista = ["Ulises", 27, true, , {name:"El poder del ahora" , autor: "Eckhart Tolle", fecha: "", url: "https://books.google.com.ar/books/about/El_poder_del_ahora.html?id=A6eWlUQfyuoC&printsec=frontcover&source=kp_read_button&hl=es-419&redir_esc=y#v=onepage&q&f=false"}]
+var fechadelibro = new Date("december 20 1995");
+var fechadenacimiento = new Date("march 27 1997");
+var lista = ["Ulises", 27, true, fechadenacimiento , { name: "El poder del ahora", autor: "Eckhart Tolle", fecha: fechadelibro, url: "https://books.google.com.ar/books/about/El_poder_del_ahora.html?id=A6eWlUQfyuoC&printsec=frontcover&source=kp_read_button&hl=es-419&redir_esc=y#v=onepage&q&f=false" }]
