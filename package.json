@@ -17,4 +17,8 @@
   },
   "homepage": "https://github.com/HiUlisesOk/jsproyect1#readme"
 }
+<<<<<<< HEAD
 console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo")
+=======
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo")
+>>>>>>> e3ed91471473dd85f635de0ff9fcf15f8637ebd2
