@@ -1,0 +1,9 @@
+
+{"level":"info","message":"Segundo log","service":"user-service"}
+{"level":"info","message":"Tercer log","service":"user-service"}
+{"level":"info","message":"2 log","service":"user-service"}
+{"level":"info","message":"Division por cero","service":"user-service"}
+{"level":"error","message":"Division por cero","service":"user-service"}
+{"level":"info","message":"Tercer log","service":"user-service"}
+{"level":"error","message":"No se puede dividir por cero","service":"user-service"}
+{"level":"info","message":"Variable B es ifgual a cero","service":"user-service"}
